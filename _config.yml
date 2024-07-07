@@ -131,7 +131,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Vozikis blog # blog_name will be displayed in your blog page
+blog_name: blog # blog_name will be displayed in your blog page
 blog_description: Exploring insightful and engaging content on AI, offering fresh perspectives and valuable information for curious minds.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
