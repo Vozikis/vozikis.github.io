@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><strong>Antonios Vozikis</strong></p>
+    <p>MSc student VU Amsterdam</p>
     <p><a href="mailto:vozikisant@gmail.com">vozikisant@gmail.com</a></p>
-    <p>Amsterdam, Netherlands</p>
 
 
 news: true # includes a list of news items
