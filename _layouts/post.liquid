@@ -16,6 +16,9 @@ layout: default
 
 <div class="post">
   <header class="post-header">
+    {% if page.image %}
+      <img src="{{ page.image }}" alt="{{ page.title }}" class="post-image">
+    {% endif %}
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
       Created in {{ page.date | date: '%B %d, %Y' }}

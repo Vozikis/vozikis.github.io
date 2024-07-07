@@ -2,10 +2,10 @@
 layout: distill
 title: Equivariant Diffusion for Molecule Generation in 3D using Consistency Models
 description: <p> Introduction to the seminal papers &quot;Equivariant Diffusion for Molecule Generation in 3D&quot; and &quot;Consistency Models&quot; with an adaptation fusing the two together for fast molecule generation. </p> 
-image: assets/img/2024-06-30-equivariant_diffusion/consistency_on_molecules.png
 tags: equivariance, diffusion, molecule generation, consistency models
 giscus_comments: true
 date: 2024-06-30
+image: /assets/img/2024-06-30-equivariant_diffusion/consistency_on_molecules.png
 featured: true
 
 
