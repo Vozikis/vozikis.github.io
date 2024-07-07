@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p><strong>Antonios Vozikis</strong></p>
     <p>MSc student VU Amsterdam</p>
-    <p><a href="mailto:vozikisant@gmail.com">vozikisant@gmail.com</a></p>
+    <p><a href="mailto:vozikisant@gmail.com">Email</a></p>
 
 
 news: true # includes a list of news items
