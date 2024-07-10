@@ -38,7 +38,12 @@ layout: default
       </div>
     {% endif %}
 
-
+    <style>
+      .social {
+        transform: scale(0.5);
+        transform-origin: top left; /* Ensure scaling happens from the top-left corner */
+      }
+    </style>
     <!-- Social -->
     {% if page.social %}
       <div class="social">
