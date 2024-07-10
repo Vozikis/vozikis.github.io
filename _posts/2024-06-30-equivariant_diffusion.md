@@ -6,6 +6,7 @@ tags: equivariance, diffusion, molecule generation, consistency models
 giscus_comments: true
 date: 2024-06-30
 image: /assets/img/2024-06-30-equivariant_diffusion/consistency_on_molecules.png
+featured_image: /assets/img/2024-06-30-equivariant_diffusion/consistency_on_molecules.png
 featured: true
 
 
