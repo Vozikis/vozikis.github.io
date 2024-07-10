@@ -13,9 +13,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><strong>Antonios Vozikis</strong></p>
-    <p>MSc student VU Amsterdam</p>
+  more_info:
 
 
 news: true # includes a list of news items
