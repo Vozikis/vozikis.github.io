@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Antonios Vozikis  # the website title (if blank, full name will be used instead)
+title: **Antonios** Vozikis  # the website title (if blank, full name will be used instead)
 first_name: Antonios
 middle_name: 
 last_name: Vozikis
@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text:
 keywords: Antonios Vozikis, machine learning, AI, artificial intelligence  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ai-96.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ai.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://vozikis.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
