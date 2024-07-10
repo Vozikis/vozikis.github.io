@@ -2,8 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle:
-
+subtitle: |+
+          Research Intern, <br>
+          <a href="https://www.cwi.nl/">Centrum Wiskunde & Informatica (CWI)</a>, Netherlands <br><br>
+          Pursuing a Master's degree in Artificial Intelligence, <br>
+          <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU)</a> <br><br>
+          Bachelor's degree in Electrical and Computer Engineering, <br>
+          <a href="https://www.uth.gr/">University of Thessaly (UTH)</a>
 profile:
   align: right
   image: prof_pic.jpg
