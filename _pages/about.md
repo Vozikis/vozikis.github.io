@@ -8,7 +8,7 @@ subtitle: |+
           Pursuing a Master's degree in Artificial Intelligence, <br>
           <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU)</a> <br><br>
           Bachelor's degree in Electrical and Computer Engineering, <br>
-          <a href="https://www.uth.gr/en">University of Thessaly (UTH)</a>
+          <a href="https://www.e-ce.uth.gr/?lang=en">University of Thessaly (UTH)</a>
 profile:
   align: right
   image: prof_pic.jpg
