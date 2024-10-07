@@ -30,7 +30,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi and welcome! 
 
-My primary research interests are Dynamical Systems, Generative AI,  Deep Learning and Neural Networks. I am currently pursuing a Master’s in **Artificial Intelligence** at VU in a cooperation with UvA in Amsterdam, where I am exploring the vast potentials of AI. This summer, I am doing a research internship at CWI, the national research institute for Mathematics and Computer Science in the Netherlands.
+My primary research interests are Geometric Deep Learning, Generative AI and Dynamical Systems. I am currently pursuing a Master’s in **Artificial Intelligence** at VU in a cooperation with UvA in Amsterdam, where I am exploring the vast potentials of AI. This summer, I am doing a research internship at CWI, the national research institute for Mathematics and Computer Science in the Netherlands.
 
 I am a graduate in **Electrical and Computer Engineering** with a lifelong passion for Mathematics. From a young age, I found joy in solving mathematical problems, which led me to work as a Mathematics and Pythorn Programming teacher. Following my instincts and curiosity, I have shifted my trajectory into the field of AI, aiming to leverage technology for societal advancement. My goal is to use my skills and knowledge to drive positive societal change, fostering a brighter future.
 
