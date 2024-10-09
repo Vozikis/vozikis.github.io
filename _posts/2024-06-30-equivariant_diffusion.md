@@ -38,7 +38,9 @@ _styles: >
     font-size: 16px;
   }
 ---
-
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 ## Introduction
 
 In this blog post, we discuss the paper ["Equivariant Diffusion for Molecule Generation in 3D"](https://arxiv.org/abs/2203.17003) <d-cite key="hoogeboom2022equivariant"></d-cite>, 
@@ -75,20 +77,20 @@ properties of molecular structures are consistent with their symmetries in the r
 in ensuring that structure is preserved in the representation of a molecule under three types of transformations: 
 _translation, rotation, and reflection_. 
 
-Formally, we say that a function $f$ is equivariant to the action of a group $G$ if: 
+Formally, we say that a function $$f$$ is equivariant to the action of a group $$G$$ if: 
 
 $$
 \begin{align}
 T_g(f(x)) = f(S_g(x))
 \end{align}
-$ $
+$$ 
 
-for all $g \in G$, where $S_g,T_g$ are linear representations related to the group element $g$ <d-cite key="serre1977linear"></d-cite>.
+for all $$g \in G$$, where $$S_g,T_g$$ are linear representations related to the group element $$g$$ <d-cite key="serre1977linear"></d-cite>.
 
-The three transformations: _translation, rotation, and reflection_, form the Euclidean group $E(3)$, which is the group of all aforementioned isometries in three-dimensional space, for which $S_g$ and 
-$T_g$ can be represented by a translation $t$ and an orthogonal matrix $R$ that rotates or reflects coordinates. 
+The three transformations: _translation, rotation, and reflection_, form the Euclidean group $$E(3)$$, which is the group of all aforementioned isometries in three-dimensional space, for which $$S_g$$ and 
+$$T_g$$ can be represented by a translation $$t$$ and an orthogonal matrix $R$ that rotates or reflects coordinates. 
 
-A function $f$ is then equivariant to a rotation or reflection $R$ if transforming its input results in an equivalent transformation of its output <d-cite key="hoogeboom2022equivariant"></d-cite>: 
+A function $$f$$ is then equivariant to a rotation or reflection $$R$$ if transforming its input results in an equivalent transformation of its output <d-cite key="hoogeboom2022equivariant"></d-cite>: 
 
 $$
 \begin{align}
@@ -103,8 +105,8 @@ $$
 
 #### Introducing Equivariant Graph Neural Networks (EGNNs)
 Molecules can very naturally be represented with graph structures, where the nodes are atoms and edges their bonds. 
-The features of each atom, such as its element type or charge can be encoded into an embedding $\mathbf{h}_i \in \mathbb{R}^d$ 
-alongside with the atoms 3D position $\mathbf{x}_i \in \mathbb{R}^3$.
+The features of each atom, such as its element type or charge can be encoded into an embedding $$\mathbf{h}_i \in \mathbb{R}^d$$ 
+alongside with the atoms 3D position $$\mathbf{x}_i \in \mathbb{R}^3$$.
 
 To learn and operate on such structured inputs, Graph Neural Networks (GNNs) <d-cite key="zhou2021graphneuralnetworksreview"></d-cite> 
 have been developed, falling under the message passing paradigm <d-cite key="gilmer2017neuralmessagepassingquantum"></d-cite>. 
@@ -139,8 +141,8 @@ in nearby nodes.
     </div>
 </div>
 
-The previously mentioned $E(3)$ equivariance property of molecules can be injected as an inductive prior into to the model 
-architecture of a message passing graph neural network, resulting in an $E(3)$ EGNN. This property improves generalisation <d-cite key="hoogeboom2022equivariant"></d-cite> and also beats similar non-equivariant Graph Convolution Networks on 
+The previously mentioned $$E(3)$$ equivariance property of molecules can be injected as an inductive prior into to the model 
+architecture of a message passing graph neural network, resulting in an $$E(3)$$ EGNN. This property improves generalisation <d-cite key="hoogeboom2022equivariant"></d-cite> and also beats similar non-equivariant Graph Convolution Networks on 
 the molecular generation task <d-cite key="verma2022modular"></d-cite>.
 
 The EGNN is built with _equivariant_ graph convolution layers (EGCLs):
