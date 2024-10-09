@@ -76,13 +76,13 @@ in ensuring that structure is preserved in the representation of a molecule unde
 _translation, rotation, and reflection_. 
 
 Formally, we say that a function $$f$$ is equivariant to the action of a group $$G$$ if: 
-
+{% raw %}
 $$
 \begin{align}
 T_g(f(x)) = f(S_g(x))
 \end{align}
 $$ 
-
+{% endraw %}
 for all $$g \in G$$, where $$S_g,T_g$$ are linear representations related to the group element $$g$$ <d-cite key="serre1977linear"></d-cite>.
 
 The three transformations: _translation, rotation, and reflection_, form the Euclidean group $$E(3)$$, which is the group of all aforementioned isometries in three-dimensional space, for which $$S_g$$ and 
