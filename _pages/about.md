@@ -3,14 +3,13 @@ layout: about
 title: about
 permalink: /
 subtitle: |+
-          Teaching Assistant Deep Learning, <br>
+          Teaching Assistant Deep Learning, ML for Graphs and NLP <br>
           <a href="https://www.vu.nl/en">VU Amsterdam (CWI)</a>, Netherlands <br><br>
           Research Intern, <br>
           <a href="https://www.cwi.nl/">Centrum Wiskunde & Informatica (CWI)</a>, Netherlands <br><br>
-          Pursuing a Master's degree in Artificial Intelligence, <br>
-          <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU)</a> <br><br>
-          Bachelor's degree in Electrical and Computer Engineering, <br>
-          <a href="https://www.e-ce.uth.gr/?lang=en">University of Thessaly (UTH)</a>
+          Master's degree in Artificial Intelligence, <br>
+          <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU). Strong foundation in ML, DL and Mathematics</a> <br><br>
+
 profile:
   align: right
   image: prof_pic.jpg
