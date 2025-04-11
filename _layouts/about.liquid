@@ -44,6 +44,12 @@ layout: default
         flex-shrink: 0;
         margin-left: 20px; /* Adjust space between title/subtitle and profile image */
       }
+      .profile-image img {
+        max-width: 150px;
+        height: auto;
+        border-radius: 50%;
+        width: auto !important; /* Override Bootstrap's img-fluid */
+      }
     </style>
 
     <!-- Social -->
