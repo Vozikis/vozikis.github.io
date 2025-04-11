@@ -37,4 +37,4 @@ My primary research interests are **Geometric Deep Learning**, **Generative AI**
 I am a graduate in **Electrical and Computer Engineering** with a lifelong passion for Mathematics. From a young age, I found joy in solving mathematical problems, which led me to work as a Mathematics and Python Programming teacher. Following my instincts and curiosity, I have shifted my trajectory into the field of AI, aiming to leverage technology for societal advancement. My goal is to use my skills and knowledge to drive positive societal change, fostering a brighter future.
 
 When I’m not immersed in my research, I enjoy reading a wide range of books, indulging in a good cup of coffee, and taking long walks in nature. These activities not only provide relaxation but also inspire new ideas and perspectives. 
-[Download my CV](https://drive.google.com/file/d/1XfvqnnATWgm2K2g4rlBNu5VUi70Db8PO/view?usp=share_link)
+<!-- [Download my CV](https://drive.google.com/file/d/1XfvqnnATWgm2K2g4rlBNu5VUi70Db8PO/view?usp=share_link) -->
