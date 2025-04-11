@@ -32,9 +32,13 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi and welcome! 
 
-My primary research interests are **Geometric Deep Learning**, **Generative AI** and **Scientific Machine Learning**. I am completing my Master’s in **Artificial Intelligence** at VU in a cooperation with UvA in Amsterdam, where I am exploring the vast potentials of AI. My research is focused on the development of novel generative models for graphs and more specific knowledge graphs.
+My primary research interests are **Geometric Deep Learning**, **Generative AI** and **Dynamical Systems**. I am currently pursuing a Master’s in **Artificial Intelligence** at VU in a cooperation with UvA in Amsterdam, where I am exploring the vast potentials of AI. This summer, I am doing a research internship at CWI, the national research institute for Mathematics and Computer Science in the Netherlands.
 
-I am a graduate in **Electrical and Computer Engineering** with a lifelong passion for Mathematics. From a young age, I found joy in solving mathematical problems, which led me to work as a Mathematics and Python Programming teacher. Following my instincts and curiosity, I have shifted my trajectory into the field of AI, aiming to leverage technology for societal advancement. My goal is to use my skills and knowledge to drive positive societal change, fostering a brighter future.
+I am a graduate in **Electrical and Computer Engineering** with a lifelong passion for Mathematics. From a young age, I found joy in solving mathematical problems, which led me to work as a Mathematics and Pythorn Programming teacher. Following my instincts and curiosity, I have shifted my trajectory into the field of AI, aiming to leverage technology for societal advancement. My goal is to use my skills and knowledge to drive positive societal change, fostering a brighter future.
 
+<<<<<<< HEAD
 When I’m not immersed in my research, I enjoy reading a wide range of books, indulging in a good cup of coffee, and taking long walks in nature. These activities not only provide relaxation but also inspire new ideas and perspectives. 
 <!-- [Download my CV](https://drive.google.com/file/d/1XfvqnnATWgm2K2g4rlBNu5VUi70Db8PO/view?usp=share_link) -->
+=======
+When I’m not immersed in my research, I enjoy reading a wide range of books, indulging in a good cup of coffee, and taking long walks in nature. These activities not only provide relaxation but also inspire new ideas and perspectives.
+>>>>>>> parent of 18bc329 (CV)
