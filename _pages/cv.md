@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
 nav: true
@@ -11,11 +11,11 @@ toc:
 ---
 
 
----
+<!-- ---
 layout: page
 title: "Curriculum Vitae"
 permalink: /cv/
----
+--- -->
 
 # Antonios Vozikis  
 [Personal Website](https://vozikis.github.io) • [LinkedIn](https://www.linkedin.com/in/vozikis/) • [GitHub](https://github.com/Vozikis)  
