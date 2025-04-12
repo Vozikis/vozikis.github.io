@@ -29,11 +29,10 @@
         class="{{ include.class }}"
       {% endif %}
       {% if include.width %}
-        style="width: {{ include.width }};"
+        width="{{ include.width }}"
       {% else %}
-        style="width: 150%; max-width: none;"
+        width="100%"
       {% endif %}
-
       {% if include.height %}
         height="{{ include.height }}"
       {% else %}
