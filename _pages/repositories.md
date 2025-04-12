@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Page of the most interesting repositories.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 <!-- ## GitHub users -->
