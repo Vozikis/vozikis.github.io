@@ -1,6 +1,6 @@
 ---
 ---
-<div class="row align-items-start"">
+<div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
@@ -34,7 +34,7 @@
             include figure.liquid
             loading="eager"
             path=entry_path
-            sizes = "200px"
+            sizes = "300px"
             class="preview z-depth-1 rounded"
             zoomable=true
             alt=entry.preview
