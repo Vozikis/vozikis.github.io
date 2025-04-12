@@ -682,14 +682,9 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
-        width: 100%;
-        max-width: 500px;  // or 100% if you want full width
-        height: auto;
-        display: block;
-        border-radius: 6px;
-        margin-bottom: 1rem;
-        margin-top: 1rem;
-        object-fit: contain;
+        width: 100% !important;
+        max-width: 300px !important;
+        height: auto !important;
       }
 
       .abbr {
