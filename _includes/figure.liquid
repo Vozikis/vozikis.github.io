@@ -30,11 +30,9 @@
       {% endif %}
       {% if include.width %}
         width="{{ include.width }}"
-
       {% else %}
-        {% comment %} Don't force width if not explicitly passed {% endcomment %}
+        width="150%"
       {% endif %}
-
       {% if include.height %}
         height="{{ include.height }}"
       {% else %}

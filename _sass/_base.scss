@@ -682,11 +682,10 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
-        max-width: 100% !important;
-        width: 100% !important;
-        height: auto !important;
-        display: block;
-        margin: 1rem auto;
+        width: 100%;
+        min-width: 180px;
+        max-width: 300px;
+        margin-right: 10px;
       }
 
       .abbr {
