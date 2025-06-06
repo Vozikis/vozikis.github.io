@@ -31,7 +31,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi and welcome! 
 
-My primary research interests lie in **Generative AI**, **Geometric Deep Learning** and **Scientific Machine Learning**. I am completing my Master’s in **Artificial Intelligence** at VU in a cooperation with UvA in Amsterdam, where I am exploring the vast potentials of AI. My thesis research is focused on the development of novel generative models for graphs and more specific knowledge graphs.
+My primary research interests lie in **Generative AI**, **Geometric Deep Learning** and **Scientific Machine Learning**. Equiped with a Master in **Artificial Intelligence** at VU in a cooperation with UvA in Amsterdam, where I am exploring the vast potentials of AI. My thesis research is focused on the development of novel generative models for graphs and more specific knowledge graphs.
 
 I am a graduate in **Electrical and Computer Engineering** with a lifelong passion for Mathematics. From a young age, I found joy in solving mathematical problems, which led me to work as a Mathematics and Python Programming teacher. Following my instincts and curiosity, I have shifted my trajectory into the field of AI, aiming to leverage technology for societal advancement. My goal is to use my skills and knowledge to drive positive societal change, fostering a brighter future.
 
