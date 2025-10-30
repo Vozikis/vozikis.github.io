@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: |+
-          Researcher in Generative AI, Geometric Deep Learning and Graphs <br>
-          Scientific Supervisor – Evolutionary Computing MSc Research Teams <br>
-          Teaching Assistant DL, ML for Graphs, NLP and Evolutionary Computing <br>
+          Researcher in GenAI, Geometric Deep Learning and Graphs <br>
+          Scientific Supervisor Embodied AI MSc Research Teams <br>
+          TA for DLx2, ML for Graphs, NLP and EC <br>
           <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU)</a>, Netherlands <br><br>
           Former ML Researcher, <br>
           <a href="https://www.cwi.nl/">Centrum Wiskunde & Informatica (CWI)</a>, Netherlands <br><br>
