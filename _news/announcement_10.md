@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-01 10:00:00-0400
+date: 2025-10-30 10:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I’m excited to share that I’ll be a scientific advisor for the research projects of the master students for the course of  <a href="https://research.vu.nl/en/courses/evolutionary-computing-5/">Evolutionary Computing</a> at <a href="https://vu.nl/en">VU</a> Amsterdam!
+I had the plesure of presenting the work on Generative AI for Graphs on the  <a href="https://ivi.fnwi.uva.nl/ellis/events/ellis-unit-amsterdam-research-retreat-2025-invite-only/">ELLIS Amsterdam Research Retreat</a>. This was a wonderful experience, and I am very happy to have been able to share the work with the community.
