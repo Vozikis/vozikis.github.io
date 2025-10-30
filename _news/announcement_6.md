@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I’m excited to share that I’ll be a teaching assistant for the master course <a href="https://dlvu.github.io">Deep Learning</a> at <a href="https://vu.nl/en">VU</a> Amsterdam ! It’s a great opportunity to engage with the material deeply and help others navigate this fascinating field. 
+I’m excited to share that I’ll be a teaching assistant for the master course <a href="https://studiegids.vu.nl/en/courses/2024-2025/XM_0083#/">Deep Learning</a> at <a href="https://vu.nl/en">VU</a> Amsterdam!
