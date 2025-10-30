@@ -3,11 +3,15 @@ layout: about
 title: about
 permalink: /
 subtitle: |+
-          Teaching Assistant Deep Learning, ML for Graphs and NLP <br>
+          Researcher in Generative AI, Geometric Deep Learning and Graphs <br>
+          Scientific Supervisor – Evolutionary Computing MSc Research Teams <br>
+          Teaching Assistant DL, ML for Graphs, NLP and Evolutionary Computing <br>
           <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU)</a>, Netherlands <br><br>
-          Research Intern, <br>
+          Former ML Researcher, <br>
           <a href="https://www.cwi.nl/">Centrum Wiskunde & Informatica (CWI)</a>, Netherlands <br><br>
-          Master's degree in Artificial Intelligence, <br>
+          MSc in Artificial Intelligence (VU & UvA), <br>
+          Thesis on Generative AI Architectures for Structured Graphs <br>
+          Grade 9/10 <br>
           <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU).</a> Strong foundation in ML, DL and Mathematics <br><br>
 
 profile:
