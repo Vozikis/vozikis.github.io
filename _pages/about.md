@@ -11,7 +11,7 @@ subtitle: |+
           <a href="https://www.cwi.nl/">Centrum Wiskunde & Informatica (CWI)</a>, Netherlands <br><br>
           MSc in Artificial Intelligence (VU & UvA), <br>
           Thesis on Generative AI Architectures for Structured Graphs <br>
-          <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU).</a> Strong foundation in ML, DL and Mathematics <br><br>
+          <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU).</a>
 
 profile:
   align: right
