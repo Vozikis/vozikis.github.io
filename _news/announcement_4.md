@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Blog post accepted in ICML 2024 under the GRaM Workshop. Find more details here: <a href="https://gram-blogposts.github.io/blog/2024/equivariant_diffusion/">GRaM Workshop Blogpost</a>
+Blogpost accepted in ICML 2024. Find more details here: <a href="https://gram-blogposts.github.io/blog/2024/equivariant_diffusion/">GRaM Workshop</a>
