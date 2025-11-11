@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: |+
-          Researcher in Generative AI, Geometric Deep Learning and Graphs <br>
+          Researcher in Generative AI, SciML and Geometric Deep Learning  <br>
           Scientific Supervisor Embodied AI MSc Research Teams <br>
           Teaching Assistant for DLx2, ML for Graphs, NLP and EC <br>
           <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU)</a>, Netherlands <br><br>
