@@ -3,7 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: |+
-          Researcher in Generative AI, SciML and Geometric Deep Learning  <br>
+          PhD in AI for Science <br>
+          Learning Dynamical Systems with Deep Learning <br>
           Scientific Supervisor Embodied AI MSc Research Teams <br>
           Teaching Assistant for DLx2, ML for Graphs, NLP and EC <br>
           <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU)</a>, Netherlands <br><br>
@@ -34,7 +35,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi and welcome! 
 
-My primary research interests lie in **Generative AI**, **Geometric Deep Learning** and **Foundation Models**. I hold a Master's in **Artificial Intelligence** from Vrije Universiteit (VU), in collaboration with Universiteit van Amsterdam (UvA) (Grade 8.5/10). My thesis research focused on Generative AI Architectures for Structured Graphs, received a 9/10.
+I am a **PhD researcher in AI for Science**, with a focus on **learning dynamical systems using Deep Learning**. My research centers on **representation learning, generative modeling, and geometric deep learning**, with the goal of building AI systems that can predict and generalize complex dynamics from data.
+
+A core application of my work lies in **cellular dynamics**, where I study how **T cells interact with and attack cancer cells** using data driven and physics inspired models. 
+
+I hold a Master's in **Artificial Intelligence** from Vrije Universiteit (VU), in collaboration with Universiteit van Amsterdam (UvA) (Grade 8.5/10). My thesis research focused on Generative AI Architectures for Structured Graphs, received a 9/10.
 
 I am a graduate in **Electrical and Computer Engineering** with a lifelong passion for Mathematics. From a young age, I found joy in solving mathematical problems, which driven by curiosity,led me into the field of AI.
 
