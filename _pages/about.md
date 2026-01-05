@@ -5,14 +5,12 @@ permalink: /
 subtitle: |+
           PhD in AI for Science <br>
           Learning Dynamical Systems with Deep Learning <br>
+          <a href="https://www.uva.nl/en">Universiteit van Amsterdam (VU)</a>, Netherlands <br><br>
           Scientific Supervisor Embodied AI MSc Research Teams <br>
           Teaching Assistant for DLx2, ML for Graphs, NLP and EC <br>
           <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU)</a>, Netherlands <br><br>
           Former ML Researcher, <br>
           <a href="https://www.cwi.nl/">Centrum Wiskunde & Informatica (CWI)</a>, Netherlands <br><br>
-          MSc in Artificial Intelligence (VU & UvA), <br>
-          Thesis on Generative AI Architectures for Structured Graphs <br>
-          <a href="https://www.vu.nl/en">Vrije Universiteit Amsterdam (VU).</a>
 
 profile:
   align: right
@@ -35,7 +33,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi and welcome! 
 
-I am a **PhD researcher in AI for Science**, with a focus on **learning dynamical systems using Deep Learning**. My research centers on building AI systems that can predict and generalize complex dynamics from data.
+I am a **PhD researcher in AI for Science**, with a focus on **learning dynamical systems using Deep Learning**, supervised by
+<a href="https://www.egavves.com/">Prof. Efstratios Gavves</a> 
+and 
+<a href="https://zadaianchuk.github.io/">Dr. Andrii Zadaianchuk</a> 
+at the **Universiteit van Amsterdam**.
 
 A core application of my work lies in **cellular dynamics**, where I study how **T cells interact with and attack cancer cells** using data driven and physics inspired models. 
 
