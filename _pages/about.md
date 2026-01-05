@@ -35,7 +35,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi and welcome! 
 
-I am a **PhD researcher in AI for Science**, with a focus on **learning dynamical systems using Deep Learning**. My research centers on **representation learning, generative modeling, and geometric deep learning**, with the goal of building AI systems that can predict and generalize complex dynamics from data.
+I am a **PhD researcher in AI for Science**, with a focus on **learning dynamical systems using Deep Learning**. My research centers on building AI systems that can predict and generalize complex dynamics from data.
 
 A core application of my work lies in **cellular dynamics**, where I study how **T cells interact with and attack cancer cells** using data driven and physics inspired models. 
 
