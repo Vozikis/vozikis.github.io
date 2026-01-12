@@ -37,7 +37,7 @@ I am a **PhD researcher in AI for Science**, with a focus on **learning dynamica
 <a href="https://www.egavves.com/">Prof. Efstratios Gavves</a> 
 and 
 <a href="https://zadaianchuk.github.io/">Dr. Andrii Zadaianchuk</a> 
-at the **Universiteit van Amsterdam**.
+at **Universiteit van Amsterdam**.
 
 A core application of my work lies in **cellular dynamics**, where I study how **T cells interact with and attack cancer cells** using data driven and physics inspired models. 
 
